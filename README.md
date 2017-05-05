@@ -1,7 +1,7 @@
 # Elixir Companies
 [![Build Status](https://travis-ci.org/doomspork/elixir-companies.svg?branch=master)](https://travis-ci.org/doomspork/elixir-companies)
 
-A curated list of companies using Elixir in production, organized by industry.
+A curated list of companies using Elixir in production, organized by industry.2
 
 #### Business Intelligence
 * [Adjust](https://www.adjust.com/) ([Github](https://github.com/adjust)) - Mobile user attribution and advanced app analytics, combined with store stats. How elixir being used [Click here](http://big-elephants.com/). Berlin, Germany.
